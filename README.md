@@ -1,0 +1,1 @@
+# full-php-blog-test
